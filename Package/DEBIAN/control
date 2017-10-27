@@ -1,0 +1,14 @@
+Package: com.cryptedbytes.HolyTranslate
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CryptedBytes <winneonsword@gmail.com>
+Filename: debs//holytr.deb
+Size: 5062
+MD5sum: 9162c1eb899fd846c9bd898acf7845eb
+SHA1: 5b22c3216cec73ca5f4d5c3518fce10689221000
+SHA256: 7067d96fb4e0add0624f2c771ad6c8dabc4801b5a3a30ce4dbdea1523a21efc8
+Section: Tweaks
+Description: This is a test package
+Author: CryptedBytes <winneonsword@gmail.com>
+Depiction: http://repo.winneonsword.net/packages/package.html
+Name: Holy bilmemne
