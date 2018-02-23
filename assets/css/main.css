@@ -2688,7 +2688,7 @@
 /* Feature */
 
 	.features {
-		background-color: #00cdcf; 
+		
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -2750,6 +2750,7 @@
 
 		.feature .fa {
 			color: #00cdcf;
+			background-color: #00cdcf; 
 		}
 
 /* Wrapper */
