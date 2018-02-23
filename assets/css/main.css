@@ -3510,7 +3510,8 @@
 /* Banner */
 
 	#banner {
-		background-color: #00cdcf;
+		/*background-color: #00cdcf; */
+		background-color:rgba(255,0,0,0.5);
 		color: #ffffff;
 		padding: 8em 0 6em 0;
 		text-align: center;
