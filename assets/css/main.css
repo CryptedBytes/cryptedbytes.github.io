@@ -2521,11 +2521,14 @@
 		border-top-color: #e3e3e3;
 	}
 
+	
+
 /* Section/Article */
 
 	section.special, article.special, header.special {
 		text-align: center;
-		/*background-color: #F7F7F7; */
+		background-color: #F7F7F7;
+		
 	}
 
 	header {
