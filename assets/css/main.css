@@ -2525,6 +2525,7 @@
 
 	section.special, article.special, header.special {
 		text-align: center;
+		background-color: #00cdcf; 
 	}
 
 	header {
@@ -2716,7 +2717,7 @@
 		.feature .fa {
 			font-size: 2.8em;
 			margin-bottom: 0.7em;
-			background-color: #00cdcf; 
+		
 		}
 
 		@media screen and (max-width: 1280px) {
