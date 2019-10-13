@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<!--
+	Typify by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<!--
+<html>
+	<head>
+		<title>CRYPTEDBYTES</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+		<link rel="stylesheet" href="css/main.css" />
+    </head>
+    <body>
+        lorem ipsum dolor sit amet
+    </body>
+-->
+
+
+
+ <!DOCTYPE html>
+<html>
+<head>
+        <title>CRYPTEDBYTES</title>
+
+
+
+
+
+
+
+        <style> 
+            body {
+            
+            
+            
+            background: linear-gradient(270deg, #c828b4, #000000, #000000);
+            background-size: 600% 600%;
+            
+            -webkit-animation: AnimationName 5s;
+            -moz-animation: AnimationName 5s;
+            -o-animation: AnimationName 5s;
+            animation: AnimationName 5s;
+            
+            @-webkit-keyframes AnimationName {
+                0%{background-position:72% 0%;}
+                50%{background-position:29% 100%;}
+                100%{background-position:72% 0%;
+            }
+            @-moz-keyframes AnimationName {
+                0%{background-position:72% 0%;}
+                50%{background-position:29% 100%;}
+                100%{background-position:72% 0%;
+            }
+            @-o-keyframes AnimationName {
+                0%{background-position:72% 0%;}
+                50%{background-position:29% 100%;}
+                100%{background-position:72% 0%;
+            }
+            @keyframes AnimationName {
+                0%{background-position:72% 0%;}
+                50%{background-position:29% 100%;}
+                100%{background-position:72% 0%;
+            }
+            
+
+            
+   
+            </style>
+
+            
+
+
+
+</head>
+<body>
+
+    
+
+
+</body>
+</html>
