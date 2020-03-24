@@ -1,0 +1,5 @@
+folder 1:
+privacy policy for apps that use firebase, crashlytics AND fabric
+
+folder 2:
+privacy policy for apps that DO NOT use firebase, crashlytics AND fabric
